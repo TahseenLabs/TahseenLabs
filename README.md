@@ -1,4 +1,4 @@
-<img src="./profileBanner.png">
+<img src="./animatedProfileBanner.gif">
 
 <h1 align="center">Hi, I’m Tahseen! </h1>
 
