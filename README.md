@@ -35,15 +35,6 @@
   </a>
 </p>
 
-
-<h3 align="left" style="font-size: 24px;">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahseenlabs&show_icons=true&locale=en" height="160" style="margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahseenlabs&show_icons=true&locale=en&layout=compact" height="160" style="margin: 10px;" />
-</div>
-
-
 <h3 align="left" style="font-size: 24px;">Languages and Tools</h3>
 
 <p align="center">
