@@ -1,18 +1,8 @@
-<img src="./animatedProfileBanner.gif">
+<p align="center">
+  <img src="./assets/gifs/banner-img.gif" width="160" height="160" />
+</p>
 
 <h1 align="center">Hi, I’m Tahseen! </h1>
-
-<!--
-<div align="center">
-  <a href="https://ahmadtahseen.ie/">
-    <img src="./buttonImg-1.png" width="160" alt="LinkedIn Button"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tahseen-ahmad-cs/">
-    <img src="./buttonImg-2.png" width="160" alt="Portfolio Button"/>
-  </a>
-</div>
--->
 
 <h3 align="center">
 I work with Linux, develop automation tools in Python, and focus on system reliability, 
