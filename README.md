@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/gifs/banner-img.gif" height="250" width="250"" />
-</p>
-
 <h1 align="center">Hi, I’m Tahseen! </h1>
 
 <h3 align="center">
