@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gifs/banner-img.gif" width="160" height="160" />
+  <img src="./assets/gifs/banner-img.gif" />
 </p>
 
 <h1 align="center">Hi, I’m Tahseen! </h1>
