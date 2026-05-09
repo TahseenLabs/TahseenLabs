@@ -21,12 +21,17 @@ Developer focused on systems programming, applied algorithms, and practical soft
 My work is organized through pinned repositories, highlighting systems thinking, applied algorithms, and practical software development.
 
 - Custom Shell → process handling, command parsing, and system-level behavior
-- Recipe Meal Planner (Full-Stack Web App) → a full-stack MERN web application for browsing recipes, saving favourites, planning weekly meals, and managing custom recipes with secure session-based authentication.
-Built as a college Web Technologies group project.
-- Metaheuristic Optimization Algorithms → travel-distance optimisation using simulated annealing, genetic algorithms, and particle swarm optimisation applied to the MotoGP calendar problem  
+  
+- Recipe Meal Planner (Full-Stack Web App) → a full-stack MERN web application for browsing recipes, saving favourites, planning weekly meals, and managing custom recipes with secure session-based authentication. Built as a college Web Technologies group project.
+  
+- Metaheuristic Optimization Algorithms → travel-distance optimisation using simulated annealing, genetic algorithms, and particle swarm optimisation applied to the MotoGP calendar problem
+  
 - Pictionary Game (PyQt6) → real-time two-player drawing and guessing game with timed rounds and shared canvas mechanics
-- FootMazeDuel → two-player Java Swing football game with real-time gameplay, scoring system, sprites, and unit testing  
-- Property Letting Platform → full-stack rental system with role-based access control using Next.js, MySQL, and NextAuth  
+  
+- FootMazeDuel → two-player Java Swing football game with real-time gameplay, scoring system, sprites, and unit testing
+  
+- Property Letting Platform → full-stack rental system with role-based access control using Next.js, MySQL, and NextAuth
+  
 - Stock Trade Calculator (PyQt6) → desktop tool for calculating stock profit/loss based on historical buy/sell inputs and quantities  
 
 ---
