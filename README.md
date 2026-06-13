@@ -30,7 +30,7 @@ My work is organized through pinned repositories, highlighting systems thinking,
   
 - FootMazeDuel → two-player Java Swing football game with real-time gameplay, scoring system, sprites, and unit testing
     
-- Stock Trade Calculator (PyQt6) → desktop tool for calculating stock profit/loss based on historical buy/sell inputs and quantities  
+- Smart Home Monitoring System (Raspberry Pi) → IoT based environmental and safety monitoring system using a Raspberry Pi 3, with sensor integration, automated alerts and an LCD display. Built as a college group project.
 
 ---
 
